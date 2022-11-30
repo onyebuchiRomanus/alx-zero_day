@@ -1,1 +1,1 @@
-My first readme
+a curent job iam doing at alx
